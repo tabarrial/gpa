@@ -1,0 +1,13 @@
+1;asis;1;Procesar Ficheros Cliente_RACC;es.tirea.racc.cliente.batch.ProcesarFicherosProveedor;LOGS;STOP;START
+4;asis;1;Batch RACE;es.tirea.webflota.batchWebflota.server.BatchRace;LOGS;STOP;START
+5;asis;1;Listener Interno Gesgru;es.tirea.webflota.listener.server.ListenerIGesGru;LOGS;STOP;START
+6;asis;1;Listener Interno Acept;es.tirea.webflota.listener.server.ListenerIAccept;LOGS;STOP;START
+7;asis;1;Listener Interno FinaEco;es.tirea.webflota.listener.server.ListenerIFinEco;LOGS;STOP;START
+8;asis;1;Listener Interno Status;es.tirea.webflota.listener.server.ListenerIStatus;LOGS;STOP;START
+9;asis;1;Listener Interno Services;es.tirea.webflota.listener.server.ListenerIServices;LOGS;STOP;START
+10;asis;1;Batch Rechazos Webflota;es.tirea.webflota.batch.server.BatchRechazosWebflota;LOGS;STOP;START
+12;asis;1;Batch Servicios Finalizados;es.tirea.webflota.batch.server.BatchFinalizadosWebflota;LOGS;STOP;START
+14;asis;1;Batch Servicios Diferidos;es.tirea.webflota.batch.server.BatchDiferidosWebflota;LOGS;STOP;START
+15;asis;1;Batch Asitur;es.tirea.webflota.batch.server.BatchAsitur;LOGS;STOP;START
+16;asis;1;Batch EA Coordenadas;es.tirea.webflota.batch.server.BatchCoordenadasEA;LOGS;STOP;START
+17;asis;1;Batch AXA Coordenadas;es.tirea.webflota.batch.server.BatchCoordenadasAXA;LOGS;STOP;START
